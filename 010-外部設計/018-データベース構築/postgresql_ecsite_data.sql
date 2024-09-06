@@ -14,7 +14,7 @@ CREATE TABLE users (
 	user_id		VARCHAR(255)	PRIMARY KEY,
 	password	VARCHAR(255)		NOT NULL,
 	user_name		VARCHAR(32),
-	address		VARCHAR(255) --,
+	address		VARCHAR(255)--,
 --  withdrawal	BOOLEAN	DEFAULT FALSE
 );
 ALTER TABLE public.users OWNER TO ecsite;
