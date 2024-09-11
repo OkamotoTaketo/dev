@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+		<title>ショッピングカートの商品を修正</title>
+		<link rel='stylesheet' type='text/css' href='style.css' />
+	</head>
+	<body>
+		<h3>以下の商品の数量を修正してよろしいですか？</h3>
+		<br />
+		麦わら帽子<br />
+		日本帽子製造<br />
+		4980円<br />
+		数量 5 個<br />
+		<form action='modifyFromCartCommit.html' method='POST'>
+			<input type='hidden' name='itemId' value='123' />
+			<input type='submit' value='修正する' /><br />
+		</form>
+		<a href='main.html'>商品検索</a>へ<br />
+</html>
