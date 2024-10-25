@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemsDAOTest" project="ecsite" tests="33" started="33" failures="0" errors="0" ignored="0">
+  <testsuite name="ecsite.dao.ItemsDAOTest" time="3.046" displayname="ItemsDAOTest" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]">
+    <testcase name="testNo1" classname="ecsite.dao.ItemsDAOTest" time="0.637" displayname="testNo1()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo1()]"/>
+    <testcase name="testNo2" classname="ecsite.dao.ItemsDAOTest" time="0.067" displayname="testNo2()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo2()]"/>
+    <testcase name="testNo3" classname="ecsite.dao.ItemsDAOTest" time="0.185" displayname="testNo3()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo3()]"/>
+    <testcase name="testNo4" classname="ecsite.dao.ItemsDAOTest" time="0.08" displayname="testNo4()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo4()]"/>
+    <testcase name="testNo5" classname="ecsite.dao.ItemsDAOTest" time="0.071" displayname="testNo5()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo5()]"/>
+    <testcase name="testNo6" classname="ecsite.dao.ItemsDAOTest" time="0.059" displayname="testNo6()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo6()]"/>
+    <testcase name="testNo7" classname="ecsite.dao.ItemsDAOTest" time="0.059" displayname="testNo7()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo7()]"/>
+    <testcase name="testNo8" classname="ecsite.dao.ItemsDAOTest" time="0.073" displayname="testNo8()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo8()]"/>
+    <testcase name="testNo9" classname="ecsite.dao.ItemsDAOTest" time="0.069" displayname="testNo9()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo9()]"/>
+    <testcase name="testNo10" classname="ecsite.dao.ItemsDAOTest" time="0.066" displayname="testNo10()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo10()]"/>
+    <testcase name="testNo11" classname="ecsite.dao.ItemsDAOTest" time="0.069" displayname="testNo11()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo11()]"/>
+    <testcase name="testNo12" classname="ecsite.dao.ItemsDAOTest" time="0.068" displayname="testNo12()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo12()]"/>
+    <testcase name="testNo13" classname="ecsite.dao.ItemsDAOTest" time="0.086" displayname="testNo13()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo13()]"/>
+    <testcase name="testNo14" classname="ecsite.dao.ItemsDAOTest" time="0.072" displayname="testNo14()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo14()]"/>
+    <testcase name="testNo15" classname="ecsite.dao.ItemsDAOTest" time="0.071" displayname="testNo15()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo15()]"/>
+    <testcase name="testNo16" classname="ecsite.dao.ItemsDAOTest" time="0.058" displayname="testNo16()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo16()]"/>
+    <testcase name="testNo17" classname="ecsite.dao.ItemsDAOTest" time="0.08" displayname="testNo17()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo17()]"/>
+    <testcase name="testNo18" classname="ecsite.dao.ItemsDAOTest" time="0.089" displayname="testNo18()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo18()]"/>
+    <testcase name="testNo19" classname="ecsite.dao.ItemsDAOTest" time="0.061" displayname="testNo19()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo19()]"/>
+    <testcase name="testNo20" classname="ecsite.dao.ItemsDAOTest" time="0.07" displayname="testNo20()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo20()]"/>
+    <testcase name="testNo21" classname="ecsite.dao.ItemsDAOTest" time="0.094" displayname="testNo21()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo21()]"/>
+    <testcase name="testNo22" classname="ecsite.dao.ItemsDAOTest" time="0.072" displayname="testNo22()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo22()]"/>
+    <testcase name="testNo23" classname="ecsite.dao.ItemsDAOTest" time="0.07" displayname="testNo23()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo23()]"/>
+    <testcase name="testNo24" classname="ecsite.dao.ItemsDAOTest" time="0.067" displayname="testNo24()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo24()]"/>
+    <testcase name="testNo25" classname="ecsite.dao.ItemsDAOTest" time="0.066" displayname="testNo25()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo25()]"/>
+    <testcase name="testNo26" classname="ecsite.dao.ItemsDAOTest" time="0.068" displayname="testNo26()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo26()]"/>
+    <testcase name="testNo27" classname="ecsite.dao.ItemsDAOTest" time="0.075" displayname="testNo27()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo27()]"/>
+    <testcase name="testNo28" classname="ecsite.dao.ItemsDAOTest" time="0.067" displayname="testNo28()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo28()]"/>
+    <testcase name="testNo29" classname="ecsite.dao.ItemsDAOTest" time="0.069" displayname="testNo29()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo29()]"/>
+    <testcase name="testNo30" classname="ecsite.dao.ItemsDAOTest" time="0.067" displayname="testNo30()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo30()]"/>
+    <testcase name="testNo31" classname="ecsite.dao.ItemsDAOTest" time="0.06" displayname="testNo31()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo31()]"/>
+    <testcase name="testNo32" classname="ecsite.dao.ItemsDAOTest" time="0.065" displayname="testNo32()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo32()]"/>
+    <testcase name="testNo33" classname="ecsite.dao.ItemsDAOTest" time="0.115" displayname="testNo33()" uniqueid="[engine:junit-jupiter]/[class:ecsite.dao.ItemsDAOTest]/[method:testNo33()]"/>
+  </testsuite>
+</testrun>
