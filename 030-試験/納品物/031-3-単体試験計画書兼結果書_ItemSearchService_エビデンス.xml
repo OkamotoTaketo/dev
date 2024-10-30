@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemSearchServiceTest" project="ecsite" tests="13" started="13" failures="0" errors="0" ignored="0">
-  <testsuite name="ecsite.Service.ItemSearchServiceTest" time="1.515" displayname="ItemSearchServiceTest" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]">
-    <testcase name="testNo1" classname="ecsite.Service.ItemSearchServiceTest" time="0.705" displayname="testNo1()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo1()]"/>
-    <testcase name="testNo2" classname="ecsite.Service.ItemSearchServiceTest" time="0.077" displayname="testNo2()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo2()]"/>
-    <testcase name="testNo3" classname="ecsite.Service.ItemSearchServiceTest" time="0.074" displayname="testNo3()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo3()]"/>
-    <testcase name="testNo4" classname="ecsite.Service.ItemSearchServiceTest" time="0.071" displayname="testNo4()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo4()]"/>
-    <testcase name="testNo5" classname="ecsite.Service.ItemSearchServiceTest" time="0.076" displayname="testNo5()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo5()]"/>
-    <testcase name="testNo6" classname="ecsite.Service.ItemSearchServiceTest" time="0.086" displayname="testNo6()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo6()]"/>
-    <testcase name="testNo7" classname="ecsite.Service.ItemSearchServiceTest" time="0.001" displayname="testNo7()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo7()]"/>
-    <testcase name="testNo8" classname="ecsite.Service.ItemSearchServiceTest" time="0.001" displayname="testNo8()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo8()]"/>
-    <testcase name="testNo9" classname="ecsite.Service.ItemSearchServiceTest" time="0.001" displayname="testNo9()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo9()]"/>
-    <testcase name="testNo10" classname="ecsite.Service.ItemSearchServiceTest" time="0.091" displayname="testNo10()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo10()]"/>
-    <testcase name="testNo11" classname="ecsite.Service.ItemSearchServiceTest" time="0.078" displayname="testNo11()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo11()]"/>
-    <testcase name="testNo12" classname="ecsite.Service.ItemSearchServiceTest" time="0.14" displayname="testNo12()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo12()]"/>
-    <testcase name="testNo13" classname="ecsite.Service.ItemSearchServiceTest" time="0.114" displayname="testNo13()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ItemSearchServiceTest]/[method:testNo13()]"/>
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ServiceTest" project="ecsite" tests="19" started="19" failures="0" errors="0" ignored="0">
+  <testsuite name="ecsite.Service.ServiceTest" time="2.128" displayname="ServiceTest" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]">
+    <testcase name="testNo1" classname="ecsite.Service.ServiceTest" time="0.686" displayname="testNo1()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo1()]"/>
+    <testcase name="testNo2" classname="ecsite.Service.ServiceTest" time="0.083" displayname="testNo2()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo2()]"/>
+    <testcase name="testNo3" classname="ecsite.Service.ServiceTest" time="0.096" displayname="testNo3()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo3()]"/>
+    <testcase name="testNo4" classname="ecsite.Service.ServiceTest" time="0.107" displayname="testNo4()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo4()]"/>
+    <testcase name="testNo5" classname="ecsite.Service.ServiceTest" time="0.12" displayname="testNo5()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo5()]"/>
+    <testcase name="testNo6" classname="ecsite.Service.ServiceTest" time="0.109" displayname="testNo6()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo6()]"/>
+    <testcase name="testNo7" classname="ecsite.Service.ServiceTest" time="0.001" displayname="testNo7()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo7()]"/>
+    <testcase name="testNo8" classname="ecsite.Service.ServiceTest" time="0.001" displayname="testNo8()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo8()]"/>
+    <testcase name="testNo9" classname="ecsite.Service.ServiceTest" time="0.0" displayname="testNo9()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo9()]"/>
+    <testcase name="testNo10" classname="ecsite.Service.ServiceTest" time="0.11" displayname="testNo10()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo10()]"/>
+    <testcase name="testNo11" classname="ecsite.Service.ServiceTest" time="0.12" displayname="testNo11()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo11()]"/>
+    <testcase name="testNo12" classname="ecsite.Service.ServiceTest" time="0.121" displayname="testNo12()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo12()]"/>
+    <testcase name="testNo13" classname="ecsite.Service.ServiceTest" time="0.129" displayname="testNo13()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo13()]"/>
+    <testcase name="testNo14" classname="ecsite.Service.ServiceTest" time="0.132" displayname="testNo14()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo14()]"/>
+    <testcase name="testNo15" classname="ecsite.Service.ServiceTest" time="0.096" displayname="testNo15()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo15()]"/>
+    <testcase name="testNo16" classname="ecsite.Service.ServiceTest" time="0.093" displayname="testNo16()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo16()]"/>
+    <testcase name="testNo17" classname="ecsite.Service.ServiceTest" time="0.001" displayname="testNo17()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo17()]"/>
+    <testcase name="testNo18" classname="ecsite.Service.ServiceTest" time="0.002" displayname="testNo18()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo18()]"/>
+    <testcase name="testNo19" classname="ecsite.Service.ServiceTest" time="0.121" displayname="testNo19()" uniqueid="[engine:junit-jupiter]/[class:ecsite.Service.ServiceTest]/[method:testNo19()]"/>
   </testsuite>
 </testrun>
